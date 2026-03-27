@@ -1,6 +1,6 @@
 # 🎯 SkillBridge — AI Adaptive Onboarding Engine
 
-> **Hackathon 2025** · [Live Demo](https://skill-bridge-application27152006.streamlit.app/) · [GitHub](https://github.com/Yamini-Bathini/SKILL-BRIDGE)
+> **Hackathon 2025** · [Live Demo](https://skill-bridge-application27152006.streamlit.app/) · [GitHub]([https://github.com/Yamini-Bathini/SKILL-BRIDGE](https://github.com/vtu25913/skill-bridge))
 
 SkillBridge eliminates wasted onboarding time. Upload a resume and job description — our AI identifies exactly what each hire needs to learn and generates a personalised, dependency-ordered training pathway in under 30 seconds.
 
