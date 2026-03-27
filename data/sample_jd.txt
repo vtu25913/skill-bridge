@@ -1,0 +1,2 @@
+We are looking for a Data Scientist with expertise in Python, SQL, Machine Learning, Deep Learning, 
+and TensorFlow. Strong background in statistics and linear algebra required.
