@@ -21,7 +21,7 @@ SkillBridge eliminates wasted onboarding time. Upload a resume and job descripti
 
 ```bash
 # 1. Clone
-git clone https://github.com/Yamini-Bathini/SKILL-BRIDGE.git
+git clone https://github.com/vtu25913/skill-bridge/
 cd SKILL-BRIDGE
 
 # 2. Virtual environment
