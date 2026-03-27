@@ -222,7 +222,7 @@ No environment variables needed — the API key is entered in the app UI on Step
 
 ## 👤 Author
 
-**Yamini Bathini** · [github.com/Yamini-Bathini](https://github.com/Yamini-Bathini)
+**SaiKrishna Pathi** · [github.com/vtu25913]([https://github.com/vtu25913/skill-bridge])
 
 ---
 
