@@ -11,7 +11,7 @@ SkillBridge eliminates wasted onboarding time. Upload a resume and job descripti
 | | |
 |---|---|
 | **App** | https://skill-bridge-application27152006.streamlit.app/ |
-| **Repo** | https://github.com/Yamini-Bathini/SKILL-BRIDGE |
+| **Repo** |https://github.com/vtu25913/skill-bridge |
 
 > **No API key needed** — click **✨ Sample Data** on Step 1 to see the full pathway instantly with demo data.
 
