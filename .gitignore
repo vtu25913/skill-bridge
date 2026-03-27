@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Large data files – adjust as needed
+data/*.csv
+*.h5
+*.pkl
+
+# OS junk
+.DS_Store
+Thumbs.db
